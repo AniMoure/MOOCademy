@@ -1,7 +1,7 @@
 # How to install and test?
 #### Download or clone the repository
 ```sh
-$ git clone https://github.com/AniMoure/blog.git
+$ git clone https://github.com/AniMoure/MOOCademy.git
 ```
 #### Run the command to install the necessary gems
 ```sh
